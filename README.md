@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2> Hello, I'm Simran Ayushee Seeburrun! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Computer Science student at University of Mauritius</br> Ex Software Development intern at <a href="https://www.sdworx.com/en-en/mauritius/">SD Worx</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+</em></p>
 
-<!--
-**Ayushee-Seeburrun/Ayushee-Seeburrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const ayushee = {
+  code: [ "HTML", "CSS", "Javascript", "Python", "Java", "C++"],
+  tools: ["Figma", "GitHub", "PostMan", "Google Collab"],
+  backend: "SQL"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
+
+---
