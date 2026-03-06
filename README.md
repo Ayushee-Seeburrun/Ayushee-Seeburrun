@@ -6,10 +6,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+
 const ayushee = {
-  code: [ "HTML", "CSS", "Javascript", "Python", "Java", "C++"],
-  tools: ["Figma", "GitHub", "PostMan", "Google Collab"],
-  backend: "SQL"
+  code: [ "Javascript", "Python", "Java", "C++", "HTML", "CSS"],
+  tools: ["Figma", "GitHub", "PostMan", "Google Colab"],
+  tech: ["Machine Learning"]
+  backend: ["SQL", "FastAPI"]
 }
 ```
 
