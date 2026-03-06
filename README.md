@@ -10,7 +10,7 @@
 const ayushee = {
   code: [ "Javascript", "Python", "Java", "C++", "HTML", "CSS"],
   tools: ["Figma", "GitHub", "PostMan", "Google Colab"],
-  tech: ["Machine Learning"]
+  tech: ["Machine Learning"],
   backend: ["SQL", "FastAPI"]
 }
 ```
